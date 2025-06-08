@@ -1,9 +1,11 @@
+import Page from "./pages/Page"
 
 
 function App() {
   return (
     <>
-     <h2 className="text-3xl">RAkib</h2>
+
+     <Page/>
     </>
   )
 }
